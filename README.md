@@ -12,7 +12,6 @@ git init
 git config -l 
 # list and find name&email
 ```
-![](/img/githug2.png)
 
 ## Level 3
 ```bash
